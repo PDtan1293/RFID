@@ -40,7 +40,7 @@
 
 #define DBG		0
 
-#include <Energia.h>   	        //CC3200 Specifically
+#include <Energia.h>   	        //CC3200 Specifically test
 #include <stdlib.h>		//Processor specific definitions
 #include <stdio.h>
 #include "hardware.h"
